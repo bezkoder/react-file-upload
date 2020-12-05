@@ -5,8 +5,12 @@ For more detail, please visit:
 
 > [React (with Hooks) File Upload with Axios & Boostrap Progress Bar](https://bezkoder.com/react-hooks-file-upload/)
 
+> [Material UI File Upload example with Axios & Progress Bar](https://bezkoder.com/material-ui-file-upload/)
+
 Rest APIs server for this React Client:
 > [Node.js Express File Upload Rest API example](https://bezkoder.com/node-js-express-file-upload/)
+
+> [Node.js Express File Upload with Google Cloud Storage example](https://bezkoder.com/google-cloud-storage-nodejs-upload-file/)
 
 > [Spring Boot Multipart File upload example](https://bezkoder.com/spring-boot-file-upload/)
 
@@ -30,6 +34,11 @@ With Spring Boot:
 With Django:
 
 > [React.js + Django Rest Framework](https://bezkoder.com/django-react-axios-rest-framework/)
+
+## Integration (run back-end & front-end on same server/port)
+> [Integrate React with Spring Boot](https://bezkoder.com/integrate-reactjs-spring-boot/)
+
+> [Integrate React with Node.js Express](https://bezkoder.com/integrate-react-express-same-server-port/)
 
 ## Serverless
 > [React Firebase CRUD App with Realtime Database](https://bezkoder.com/react-firebase-crud/)
